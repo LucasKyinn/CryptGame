@@ -1,8 +1,13 @@
 # CryptGame
+
+**Video :**
+
 [![image](https://user-images.githubusercontent.com/78411295/173550543-bd1d7513-1637-4c6a-987c-e7b7b2aa4139.png)](https://youtu.be/OkQ3bLqNyIM)
 
 
 **Developed with Unreal Engine 5.**
+
+Assets used : **[Medieval Dungeon](https://www.unrealengine.com/marketplace/en-US/product/a5b6a73fea5340bda9b8ac33d877c9e2)**
 
 I'm following the online course from GameDev.tv called "Unreal 5.0 C++ Developer: Learn C++ and Make Video Games" by Sam Pattuzzi.
 This is the third out of 5 projects from this course.
