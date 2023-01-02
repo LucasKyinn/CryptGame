@@ -30,6 +30,7 @@ The goals for this project were:
     -Make a "pressure plate" system. 
 
 ![PressurePlateAndGate_AdobeExpress](https://user-images.githubusercontent.com/78411295/173548412-72a37b5f-6b95-41a9-b153-a6193913ab64.gif)
+
     -Make a SceneComponent to grab object in the scene. 
 
 ![Grabber_AdobeExpress](https://user-images.githubusercontent.com/78411295/173548752-4ccb6d25-97a1-4978-944b-fa07d91a0b2a.gif)
