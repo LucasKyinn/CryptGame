@@ -5,7 +5,7 @@
 [![image](https://user-images.githubusercontent.com/78411295/173550543-bd1d7513-1637-4c6a-987c-e7b7b2aa4139.png)](https://youtu.be/OkQ3bLqNyIM)
 
 
-**Developed with Unreal Engine 5.**
+**Developed with Unreal Engine 5.0.3**
 
 Assets used : **[Medieval Dungeon](https://www.unrealengine.com/marketplace/en-US/product/a5b6a73fea5340bda9b8ac33d877c9e2)**
 
